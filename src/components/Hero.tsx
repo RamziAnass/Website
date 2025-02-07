@@ -14,7 +14,7 @@ const Hero: React.FC = () => {
           className="max-w-3xl"
         >
           <h1 className="mb-6 text-5xl font-bold leading-tight lg:text-6xl">
-Transformation des informations et Des Données à           <br />
+Transformatà           <br />
             <span className="text-primary-500 dark:text-primary-400">des  Recommandations et Leviers Stratégiques 
             </span>
           </h1>
